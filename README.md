@@ -1,0 +1,2 @@
+# pdfnlp
+POC Mail Automatization
